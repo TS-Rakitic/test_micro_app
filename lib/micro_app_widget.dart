@@ -11,7 +11,7 @@ class MicroAppWidget extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'Đây là nội dung của Micro App',
+          'Đây là nội dung của TEst1234 Micro App',
           style: TextStyle(fontSize: 18),
         ),
       ),

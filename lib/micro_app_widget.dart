@@ -7,7 +7,7 @@ class MicroAppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Micro App'),
+        title: const Text('Micro App 123'),
       ),
       body: const Center(
         child: Text(
